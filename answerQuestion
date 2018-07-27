@@ -1,0 +1,9 @@
+some git commanders:
+
+git branch -b dev
+git add answerQuestion.txt
+git pull master
+git update 
+git commit -m "add test file"
+git push 
+git merge master
